@@ -1,8 +1,0 @@
-language: objective-c
-compiler:
-  - clang
-os:
-  - osx
-osx_image: xcode61
-  
-script: ./build.rb dev
