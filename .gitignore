@@ -1,12 +1,8 @@
-Makefile
-*.o
-build
-#externals
-#extensions
+externals/
+extensions/
 
-xcuserdata
-*.xcworkspace
-*.xcuserstate
-
-#TapTools/readme.txt
-#support/
+.vscode/
+.idea/
+.clang/
+tmp/
+*.mxo
